@@ -185,3 +185,5 @@ df.isnull().sum()
 
 ![image](https://github.com/Sudhar2303/ODD2023-Datascience-Ex01/assets/133684710/30f8917a-d8d0-4d4a-9e7e-bed58d967ea7)
 
+# RESULT:
+Data cleaning for the given file has been done successfully 
